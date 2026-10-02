@@ -18,3 +18,5 @@ Codewars, LeetCode, and random ideas.
 ## Progress
 
 Updated as I solve new challenges.
+
+> ## Anyone is welcomed to contribute.
